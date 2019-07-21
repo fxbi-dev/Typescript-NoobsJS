@@ -1,5 +1,11 @@
 # Repositorio de ejemplos, referencias y anexos
 
+## Ejemplos
+
+En la carpeta `ejemplos` se encuentran algunos ejemplos básicos.
+
+En la carpeta `ejemplo-react` se encuentra un ejemplo de react.js utilizando TypeScript
+
 ## Referencias y Anexos
 
 - [Página oficial de Typescript](https://typescriptlang.org)
