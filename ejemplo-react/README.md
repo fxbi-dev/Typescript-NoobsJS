@@ -8,9 +8,11 @@ create-react-app ejemplo-react --typescript
 
 El argumento `--typescript` sirve para configurar el proyecto para funcionar con typescript por default en lugar de utilizar javascript.
 
-El proyecto se ejecuta en modo desarrollo de la misma manera, utilizando `npm start` ó `yarn start`. Al ejecutarlo en este modo, **no** se creará ningún output de compilado.
+Antes de comenzar a utilizar el proyecto de cualquier manera, hay que instalar las dependencias con `npm install`
 
-Al compilar el proyecto para producción con `npm run build` ó `yarn build`, se crean los archivos javascript correspondientes para ser ejecutado directamente por el navegador.
+El proyecto se ejecuta en modo desarrollo de la misma manera, utilizando `npm start`. Al ejecutarlo en este modo, **no** se creará ningún output de compilado.
+
+Al compilar el proyecto para producción con `npm run build`, se crean los archivos javascript correspondientes para ser ejecutado directamente por el navegador.
 
 ---
 
